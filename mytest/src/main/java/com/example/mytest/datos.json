@@ -1,0 +1,14 @@
+{
+ "vessel" : {
+ 	"name": "vesselName",
+ 	"country": "vesselCountry"
+ },
+ "position" : {
+ 	"date": "2020-08-22T03:34:11.016+00:00",
+ 	"latitude" : "2354",
+ 	"longitude" : "56849",
+ 	"speed": "1011445"
+ }
+}
+
+
