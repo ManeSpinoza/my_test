@@ -27,7 +27,7 @@ public class ControlVessel {
 		 * Function that load the database
 		 */
 		void loadVessels()  {
-			//Update database with new info
+			// Load database
 			//...
 		}
 		
@@ -36,7 +36,7 @@ public class ControlVessel {
 		 * @param inputVessel 
 		 */
 		OutputModel addVesselToList(InputModel inputVessel) {
-			//
+			//Update database with new info by adding new input to the list
 			
 			OutputModel output= new OutputModel(inputVessel.vessel,inputVessel.position);
 			return output;
